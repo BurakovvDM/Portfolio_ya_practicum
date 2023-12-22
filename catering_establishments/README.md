@@ -4,16 +4,16 @@
 Необходимо подготовить исследование рынка заведений общественного питания Москвы, найти интересные особенности и презентовать полученные результаты, которые в будущем помогут в выборе подходящего инвесторам места.
 
 # Навыки и инструменты
-pandas
-numpy
-seaborn
-matplotlib
-plotly
-folium
-re
-sidetable
-json
-missingno
+pandas <br>
+numpy <br>
+seaborn <br>
+matplotlib <br>
+plotly <br>
+folium <br>
+re <br>
+sidetable <br>
+json <br>
+missingno <br>
 
 # Вывод
 Было проведено исследование рынка заведений общественного питания Москвы.
