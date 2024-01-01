@@ -1,5 +1,5 @@
 # Исследование поведения пользователей мобильного приложения
-[тетрадка ipynb](https://nbviewer.org/github/BurakovvDM/Portfolio_ya_practicum/blob/main/Mobile_app_AB_test/AB_test.ipynb)
+[тетрадка ipynb](https://nbviewer.org/github.com/BurakovvDM/Portfolio_ya_practicum/blob/main/app_AB_test/AAB_test.ipynb)
 
 # Описание проекта
 На основе данных использования мобильного приложения проанализировать поведение пользователей, изучить воронку продаж, а также оценить результаты A/A/B-тестирования.
