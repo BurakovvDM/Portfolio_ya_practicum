@@ -1,5 +1,5 @@
 # Анализ оттока клиентов банка
-[ссылка на тетрадку ipynb]()
+[ссылка на тетрадку ipynb](https://nbviewer.org/github/BurakovvDM/Portfolio_ya_practicum/blob/main/bank_customer_churn/customer_churn.ipynb)
 
 # Описание проекта
 Необходимо провести исследование клиентов банка и выделить сегменты, которые склонны к уходу из банка.
