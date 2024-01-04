@@ -1,5 +1,5 @@
 # Исследование корректности проведения А/В теста
-[тетрадка ipynb]()
+[тетрадка ipynb](https://nbviewer.org/github/BurakovvDM/Portfolio_ya_practicum/blob/main/check_AB_test/check_AB_test.ipynb)
 
 # Описание проекта
 На основе данных необходимо оценить корректность проведения A/B теста и проанализировать его результаты.
